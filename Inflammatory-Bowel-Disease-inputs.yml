@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/inflammatory-bowel-disease-enterocolitis---primary.py
+inputModule3:
+  class: File
+  path: python/inflammatory-bowel-disease-proctitis---primary.py
+inputModule4:
+  class: File
+  path: python/idiopathic-inflammatory-bowel-disease---primary.py
+inputModule5:
+  class: File
+  path: python/inflammatory-bowel-disease-intestine---primary.py
+inputModule6:
+  class: File
+  path: python/inflammatory-bowel-disease-crohn---primary.py
+inputModule7:
+  class: File
+  path: python/inflammatory-bowel-disease-enteritis---primary.py
+inputModule8:
+  class: File
+  path: python/inflammatory-bowel-disease-ileocolitis---primary.py
+inputModule9:
+  class: File
+  path: python/toxic-inflammatory-bowel-disease---primary.py
+inputModule10:
+  class: File
+  path: python/inflammatory-bowel-disease-ileum---primary.py
+inputModule11:
+  class: File
+  path: python/inflammatory-bowel-disease-proctocolitis---primary.py
+inputModule12:
+  class: File
+  path: python/inflammatory---primary.py
+inputModule13:
+  class: File
+  path: python/inflammatory-bowel-disease-pouchitis---primary.py
+inputModule14:
+  class: File
+  path: python/large-inflammatory-bowel-disease---primary.py
+inputModule15:
+  class: File
+  path: python/ulcerative-inflammatory-bowel-disease---primary.py
+inputModule16:
+  class: File
+  path: python/small-inflammatory-bowel-disease---primary.py
+inputModule17:
+  class: File
+  path: python/noninfective-inflammatory-bowel-disease---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
